@@ -18,6 +18,46 @@
 		vertical-align: baseline;
 	}
 
+
+
+	.about-me{
+		text-align: center;
+	}
+
+	.contact{
+		margin: 0;
+		padding: 0;
+	}
+
+	.contact-last{
+		margin: 0;
+		padding: 0;
+		padding-bottom: 15px;
+	}
+
+	.icon-desc-gh{
+		font-size: 16px;
+	}
+
+	.icon-desc-in{
+		font-size: 16px;
+		padding-right: 2px;
+	}
+
+	.icon-desc-r{
+		font-size: 16px;
+		text-align: center;
+	}
+
+	.contact-links{
+		margin: 0 auto;
+	}
+
+	.icon-contact{
+		width: 75px;
+		font-size: 14px;
+	}
+
 	article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
 		display: block;
 	}
@@ -3125,4 +3165,21 @@
 					display: none;
 				}
 
+	}
+
+	li{
+		list-style: none;
+		width: 20%;
+		float: left;
+		padding: 10px;
+	}
+
+	.skills-list{
+
+	}
+
+	.group:after{
+		content: "";
+		clear: both;
+		display: block;
 	}
