@@ -1,3 +1,3 @@
 #Portfolio Site
 
-http://www.nicoletibaldi.me
+http://www.nicole-tibaldi.me
